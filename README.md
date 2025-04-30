@@ -6,7 +6,7 @@ Bikeham Link: https://sites.google.com/view/ias-lab/side-project
 
 Author: Dr. Shang-Chih Lin (E-mail: sclin@fcu.edu.tw)
 
-iAS Lab, Dept. ACE, FCU (Webside: https://sites.google.com/view/ias-lab/)
+iAS Lab, Dept. ACE, FCU (Website: https://sites.google.com/view/ias-lab/)
 
 2025/04/30: Beta version
 
