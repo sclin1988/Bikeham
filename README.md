@@ -13,7 +13,9 @@ iAS Lab, Dept. ACE, FCU (Website: https://sites.google.com/view/ias-lab/)
 = = = = = B i k e h a m = = = = =
 
 #Reference: 
+
 [1] YouBike微笑單車. https://www.youbike.com.tw/region/main/
+
 [2] Wikipedia: Bicycle-sharing system. https://en.wikipedia.org/wiki/Bicycle-sharing_system
 
 #You Bike
